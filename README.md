@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# Confusing Calculator - confusedlator
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+confusedlator is a simple vue calculator web app.
+this app will randomly moves its operators and numbers when it's clicked.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## visit the web:
+https://confusedlator.netlify.app/
