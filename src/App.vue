@@ -2,13 +2,11 @@
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import Main from './components/Main.vue'
-// import TestAds from './components/TestAds.vue'
 </script>
 <template>
     <div class="wrapper flex justify-center items-center flex-col bg-blue-500">
         <h1>ConfusedLator /*+-</h1>
         <Main />
-        <!-- <TestAds/> -->
     </div>
 </template>
 <style scoped>
